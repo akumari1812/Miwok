@@ -1,0 +1,87 @@
+<application>
+  <component name="StatisticsApplicationUsages">
+    <group name="run-configuration-type">
+      <project id="CourtCounter" values="AndroidRunConfigurationType" collectionTime="1518889576537" />
+      <project id="HelloAndroid" values="AndroidRunConfigurationType" collectionTime="1518815306187" />
+      <project id="JustJava2" values="AndroidRunConfigurationType" collectionTime="1518815297517" />
+      <project id="mothersday" values="AndroidRunConfigurationType" collectionTime="1518711260493" />
+      <project id="MyApplication2" values="AndroidRunConfigurationType" collectionTime="1518709176525" />
+    </group>
+    <group name="module type">
+      <project id="CourtCounter" values="JAVA_MODULE" collectionTime="1518889576536" />
+      <project id="HelloAndroid" values="JAVA_MODULE" collectionTime="1518815306186" />
+      <project id="JustJava2" values="JAVA_MODULE" collectionTime="1518815297516" />
+      <project id="mothersday" values="JAVA_MODULE" collectionTime="1518711260493" />
+      <project id="MyApplication2" values="JAVA_MODULE" collectionTime="1518709176524" />
+    </group>
+    <group name="vcs">
+      <project id="JustJava2" values="Git" collectionTime="1518815297516" />
+    </group>
+    <group name="VCS Log 2">
+      <project id="JustJava2" values="data.branches.count.1+,data.commit.count.1+,data.git.root.count.1,data.users.count.1+" collectionTime="1518815297576" />
+    </group>
+    <group name="run-configuration-type-temp">
+      <project id="HelloAndroid" values="GradleRunConfiguration" collectionTime="1518815306187" />
+    </group>
+    <group name="file-type">
+      <project id="CourtCounter" values="Groovy,ARCHIVE,Images,JSON,JAVA,UNKNOWN,IDEA_MODULE,PLAIN_TEXT,ProGuard File,Properties,XML" collectionTime="1518889577367" />
+      <project id="HelloAndroid" values="IDEA_MODULE,PLAIN_TEXT,JSON,UNKNOWN,XML,ProGuard File,ARCHIVE,Groovy,JAVA,Images,Properties" collectionTime="1518815306279" />
+      <project id="JustJava2" values="PLAIN_TEXT,UNKNOWN,ProGuard File,JAVA,Groovy,Properties,Images,ARCHIVE,JSON,XML,IDEA_MODULE" collectionTime="1518815297576" />
+      <project id="mothersday" values="UNKNOWN,Properties,Images,JSON,XML,ProGuard File,JAVA,ARCHIVE,PLAIN_TEXT,IDEA_MODULE,Groovy" collectionTime="1518711260562" />
+      <project id="MyApplication2" values="Groovy,IDEA_MODULE,JAVA,JSON,PLAIN_TEXT,ProGuard File,ARCHIVE,XML,Images,Properties" collectionTime="1518709176686" />
+    </group>
+    <group name="images.ide.background">
+      <project id="CourtCounter" values="editor=0,frame=0" collectionTime="1518889577642" />
+      <project id="HelloAndroid" values="editor 0,frame 0" collectionTime="1518815306280" />
+      <project id="JustJava2" values="editor 0,frame 0" collectionTime="1518815297577" />
+      <project id="mothersday" values="frame 0,editor 0" collectionTime="1518711260562" />
+      <project id="MyApplication2" values="editor 0,frame 0" collectionTime="1518709176743" />
+    </group>
+    <group name="module-language-level">
+      <project id="CourtCounter" values="JDK_1_7" collectionTime="1518889577670" />
+      <project id="HelloAndroid" values="JDK_1_7" collectionTime="1518815306283" />
+      <project id="JustJava2" values="JDK_1_7" collectionTime="1518815297589" />
+      <project id="mothersday" values="JDK_1_7" collectionTime="1518711260565" />
+      <project id="MyApplication2" values="JDK_1_7" collectionTime="1518709176763" />
+    </group>
+    <group name="Git">
+      <project id="CourtCounter" values="config.warn.about.detached.enabled,config.repo.sync.NOT_DECIDED,config.update.type.BRANCH_DEFAULT,config.save.policy.STASH,config.cherry-pick.autocommit.disabled,config.ssh.enabled,config.push.autoupdate.disabled,config.warn.about.crlf.enabled,config.force.push.enabled,config.push.update.all.roots.enabled" collectionTime="1518889577672" />
+      <project id="HelloAndroid" values="config.ssh.enabled,config.warn.about.detached.enabled,config.repo.sync.NOT_DECIDED,config.update.type.BRANCH_DEFAULT,config.push.update.all.roots.enabled,config.push.autoupdate.disabled,config.save.policy.STASH,config.cherry-pick.autocommit.disabled,config.force.push.enabled,config.warn.about.crlf.enabled" collectionTime="1518815306284" />
+      <project id="JustJava2" values="config.push.autoupdate.disabled,config.cherry-pick.autocommit.disabled,config.force.push.enabled,data.remotes.in.project.1,config.warn.about.detached.enabled,config.update.type.BRANCH_DEFAULT,config.ssh.enabled,data.local.branches.count.1,config.warn.about.crlf.enabled,config.save.policy.STASH,data.remote.branches.count.1,config.push.update.all.roots.enabled,config.repo.sync.NOT_DECIDED" collectionTime="1518815297589" />
+      <project id="mothersday" values="config.push.autoupdate.disabled,config.force.push.enabled,config.update.type.BRANCH_DEFAULT,config.push.update.all.roots.enabled,config.warn.about.detached.enabled,config.save.policy.STASH,config.repo.sync.NOT_DECIDED,config.ssh.enabled,config.cherry-pick.autocommit.disabled,config.warn.about.crlf.enabled" collectionTime="1518711260565" />
+      <project id="MyApplication2" values="config.push.update.all.roots.enabled,config.repo.sync.NOT_DECIDED,config.warn.about.crlf.enabled,config.cherry-pick.autocommit.disabled,config.warn.about.detached.enabled,config.update.type.BRANCH_DEFAULT,config.push.autoupdate.disabled,config.ssh.enabled,config.save.policy.STASH,config.force.push.enabled" collectionTime="1518709176764" />
+    </group>
+    <group name="frameworks">
+      <project id="CourtCounter" values="java-gradle,android-gradle,android" collectionTime="1518889576535" />
+      <project id="HelloAndroid" values="android,android-gradle,java-gradle" collectionTime="1518815306186" />
+      <project id="JustJava2" values="android,java-gradle,android-gradle" collectionTime="1518815297516" />
+      <project id="mothersday" values="android,java-gradle,android-gradle" collectionTime="1518711260493" />
+      <project id="MyApplication2" values="android-gradle,android,java-gradle" collectionTime="1518709176524" />
+    </group>
+    <group name="vcs-options">
+      <project id="CourtCounter" values="perform.update.in.background.enabled,perform.checkout.in.background.enabled,perform.edit.in.background.enabled,include.text.into.shelf.enabled,perform.rollback.in.background.disabled,commit.before.check.todo.enabled,changelist.preselect.existing.disabled,commit.before.optimize.imports.disabled,offer.move.failed.committed.do_nothing_silently,commit.use.right.margin.enabled,commit.before.rearrange.disabled,perform.add_remove.in.background.enabled,show.changes.preview.disabled,offer.move.partially.committed.disabled,commit.before.check.code.smell.enabled,perform.commit.in.background.enabled,changelist.make.new.active.disabled,commit.before.check.code.cleanup.disabled,commit.before.check.non.empty.comment.disabled,commit.before.reformat.file.disabled,commit.before.check.files.up.to.date.disabled,commit.before.reformat.project.disabled,check.conflicts.in.background.disabled,offer.remove.empty.changelist.show_confirmation,commit.clear.initial.comment.disabled,commit.show.unversioned.enabled" collectionTime="1518889576535" />
+      <project id="HelloAndroid" values="commit.before.optimize.imports.disabled,perform.rollback.in.background.disabled,commit.before.reformat.file.disabled,commit.clear.initial.comment.disabled,include.text.into.shelf.enabled,offer.move.failed.committed.do_nothing_silently,perform.checkout.in.background.enabled,commit.use.right.margin.enabled,commit.before.rearrange.disabled,commit.before.check.todo.enabled,commit.before.check.code.smell.enabled,perform.add_remove.in.background.enabled,commit.before.check.files.up.to.date.disabled,commit.before.reformat.project.disabled,commit.before.check.non.empty.comment.disabled,show.changes.preview.disabled,perform.commit.in.background.enabled,offer.move.partially.committed.disabled,offer.remove.empty.changelist.show_confirmation,changelist.preselect.existing.disabled,perform.edit.in.background.enabled,changelist.make.new.active.disabled,commit.before.check.code.cleanup.disabled,perform.update.in.background.enabled,commit.show.unversioned.enabled,check.conflicts.in.background.disabled" collectionTime="1518815306186" />
+      <project id="JustJava2" values="offer.remove.empty.changelist.show_confirmation,commit.clear.initial.comment.disabled,commit.before.optimize.imports.disabled,show.changes.preview.disabled,perform.rollback.in.background.disabled,commit.before.reformat.file.disabled,perform.checkout.in.background.enabled,commit.before.reformat.project.disabled,perform.update.in.background.enabled,perform.commit.in.background.enabled,commit.before.check.todo.enabled,offer.move.failed.committed.do_nothing_silently,perform.add_remove.in.background.enabled,perform.edit.in.background.enabled,commit.before.rearrange.disabled,commit.before.check.non.empty.comment.disabled,offer.move.partially.committed.disabled,changelist.make.new.active.disabled,check.conflicts.in.background.disabled,commit.before.check.code.smell.enabled,include.text.into.shelf.enabled,commit.before.check.code.cleanup.disabled,commit.show.unversioned.enabled,commit.before.check.files.up.to.date.disabled,commit.use.right.margin.enabled,changelist.preselect.existing.disabled" collectionTime="1518815297516" />
+      <project id="mothersday" values="commit.before.check.non.empty.comment.disabled,commit.before.check.code.smell.enabled,commit.before.check.todo.enabled,commit.before.check.code.cleanup.disabled,commit.clear.initial.comment.disabled,offer.move.partially.committed.disabled,commit.before.reformat.project.disabled,check.conflicts.in.background.disabled,commit.show.unversioned.enabled,offer.move.failed.committed.do_nothing_silently,changelist.make.new.active.disabled,offer.remove.empty.changelist.show_confirmation,show.changes.preview.disabled,perform.update.in.background.enabled,commit.before.check.files.up.to.date.disabled,commit.before.optimize.imports.disabled,perform.edit.in.background.enabled,perform.checkout.in.background.enabled,include.text.into.shelf.enabled,changelist.preselect.existing.disabled,perform.commit.in.background.enabled,commit.before.reformat.file.disabled,commit.before.rearrange.disabled,perform.rollback.in.background.disabled,perform.add_remove.in.background.enabled,commit.use.right.margin.enabled" collectionTime="1518711260493" />
+      <project id="MyApplication2" values="commit.before.check.todo.enabled,changelist.preselect.existing.disabled,offer.move.failed.committed.do_nothing_silently,perform.rollback.in.background.disabled,commit.before.optimize.imports.disabled,commit.before.check.code.smell.enabled,perform.update.in.background.enabled,show.changes.preview.disabled,commit.before.reformat.file.disabled,perform.add_remove.in.background.enabled,commit.before.reformat.project.disabled,perform.edit.in.background.enabled,commit.before.check.non.empty.comment.disabled,commit.show.unversioned.enabled,perform.checkout.in.background.enabled,check.conflicts.in.background.disabled,commit.before.check.files.up.to.date.disabled,changelist.make.new.active.disabled,commit.before.check.code.cleanup.disabled,commit.clear.initial.comment.disabled,offer.move.partially.committed.disabled,commit.before.rearrange.disabled,include.text.into.shelf.enabled,perform.commit.in.background.enabled,offer.remove.empty.changelist.show_confirmation,commit.use.right.margin.enabled" collectionTime="1518709176523" />
+    </group>
+  </component>
+  <component name="UsageTrigger">
+    <counts>
+      <entry feature="CreateFile.CreateFileAction" count="1" />
+      <entry feature="StripeButton[Android_Profiler].hidden" count="36" />
+      <entry feature="StripeButton[Android_Profiler].shown" count="27" />
+      <entry feature="StripeButton[Version_Control].shown" count="2" />
+      <entry feature="execute.AndroidRunConfigurationType.Debug" count="14" />
+      <entry feature="execute.AndroidRunConfigurationType.Run" count="180" />
+      <entry feature="ide.settings.Android_SDK" count="1" />
+      <entry feature="ide.settings.Auto_Import" count="1" />
+      <entry feature="ideaapp.started" count="41" />
+      <entry feature="terminal.win" count="2" />
+      <entry feature="tips.of.the.day.next" count="18" />
+      <entry feature="welcome.screen.WelcomeScreen.Configure" count="1" />
+      <entry feature="welcome.screen.WelcomeScreen.CreateNewProject" count="5" />
+      <entry feature="welcome.screen.WelcomeScreen.Settings" count="1" />
+    </counts>
+  </component>
+</application>
